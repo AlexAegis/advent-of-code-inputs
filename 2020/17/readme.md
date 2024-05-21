@@ -1,6 +1,6 @@
 # [Day 17: Conway Cubes](https://adventofcode.com/2020/day/17)
 
-## [Part One](https://adventofcode.com/2020/day/17#part1) - [TypeScript](./typescript/src/p1.ts)
+## [Part One](https://adventofcode.com/2020/day/17#part1) - [TypeScript](/solutions/typescript/src/p1.ts)
 
 As your flight slowly drifts through the sky, the Elves at the Mythical
 Information Bureau at the North Pole contact you. They'd like some help
@@ -177,7 +177,7 @@ cubes are left in the active state after the sixth cycle?**
 
 Your puzzle answer was `304`.
 
-## [Part Two](https://adventofcode.com/2020/day/17#part2) - [TypeScript](./typescript/src/p2.ts)
+## [Part Two](https://adventofcode.com/2020/day/17#part2) - [TypeScript](/solutions/typescript/src/p2.ts)
 
 For some reason, your simulated results don't match what the experimental energy
 source engineers expected. Apparently, the pocket dimension actually has **four

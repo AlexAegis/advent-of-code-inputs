@@ -1,6 +1,6 @@
 # [Day 20: Jurassic Jigsaw](https://adventofcode.com/2020/day/20)
 
-## [Part One](https://adventofcode.com/2020/day/20#part1) - [TypeScript](./typescript/src/p1.ts)
+## [Part One](https://adventofcode.com/2020/day/20#part1) - [TypeScript](/solutions/typescript/src/p1.ts)
 
 The high-speed train leaves the forest and quickly carries you south. You can
 even see a desert in the distance! Since you have some spare time, you might as
@@ -194,7 +194,7 @@ Assemble the tiles into an image. **What do you get if you multiply together**
 
 Your puzzle answer was `22878471088273`.
 
-## [Part Two](https://adventofcode.com/2020/day/20#part2) - [TypeScript](./typescript/src/p2.ts)
+## [Part Two](https://adventofcode.com/2020/day/20#part2) - [TypeScript](/solutions/typescript/src/p2.ts)
 
 Now, you're ready to **check the image for sea monsters**.
 
@@ -306,6 +306,8 @@ monsters (marked with **`O`**):
 Determine how rough the waters are in the sea monsters' habitat by counting the
 number of `#` that are **not** part of a sea monster. In the above example, the
 habitat's water roughness is **`273`**.
+
+<!--lint ignore no-emphasis-as-heading-->
 
 **How many `#` are not part of a sea monster?**
 

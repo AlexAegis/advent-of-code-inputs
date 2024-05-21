@@ -77,6 +77,8 @@ Your puzzle answer was `3507134798`.
 > [TypeScript](/solutions/typescript/2019/09/src/p2.ts)\
 > [Rust](/solutions/rust/2019/09/src/lib.rs)
 
+<!--lint ignore no-emphasis-as-heading-->
+
 **You now have a complete Intcode computer.**
 
 Finally, you can lock on to the Ceres distress signal! You just need to boost

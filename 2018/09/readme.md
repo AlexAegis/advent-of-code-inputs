@@ -83,6 +83,8 @@ Here are a few more examples:
 - `21` players; last marble is worth `6111` points: high score is `54718`
 - `30` players; last marble is worth `5807` points: high score is `37305`
 
+<!--lint ignore no-emphasis-as-heading-->
+
 **What is the winning Elf's score?**
 
 Your puzzle answer was `361466`.

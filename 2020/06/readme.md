@@ -1,6 +1,6 @@
 # [Day 6: Custom Customs](https://adventofcode.com/2020/day/6)
 
-## [Part One](https://adventofcode.com/2020/day/6#part1) - [TypeScript](./typescript/src/p1.ts)
+## [Part One](https://adventofcode.com/2020/day/6#part1) - [TypeScript](/solutions/typescript/src/p1.ts)
 
 As your flight approaches the regional airport where you'll switch to a much
 larger plane,
@@ -68,7 +68,7 @@ For each group, count the number of questions to which anyone answered "yes".
 
 Your puzzle answer was `6542`.
 
-## [Part Two](https://adventofcode.com/2020/day/6#part2) - [TypeScript](./typescript/src/p2.ts)
+## [Part Two](https://adventofcode.com/2020/day/6#part2) - [TypeScript](/solutions/typescript/src/p2.ts)
 
 As you finish the last group's customs declaration, you notice that you misread
 one word in the instructions:

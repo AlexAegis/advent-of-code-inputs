@@ -60,8 +60,8 @@ In all three instructions, the second argument (`Y`) needs to be a **writable
 register** (either `T` or `J`). The first argument (`X`) can be **any register**
 (including `A`, `B`, `C`, or `D`).
 
-For example, the one-instruction program `NOT A J` means &quot;if the tile
-immediately in front of me is not ground, jump&quot;.
+For example, the one-instruction program `NOT A J` means "if the tile
+immediately in front of me is not ground, jump".
 
 Or, here is a program that jumps if a three-tile-wide hole (with ground on the
 other side of the hole) is detected:

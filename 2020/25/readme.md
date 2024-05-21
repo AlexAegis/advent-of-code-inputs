@@ -1,6 +1,6 @@
 # [Day 25: Combo Breaker](https://adventofcode.com/2020/day/25)
 
-## [Part One](https://adventofcode.com/2020/day/25#part1) - [TypeScript](./typescript/src/p1.ts)
+## [Part One](https://adventofcode.com/2020/day/25#part1) - [TypeScript](/solutions/typescript/src/p1.ts)
 
 You finally reach the check-in desk. Unfortunately, their registration systems
 are currently offline, and they cannot check you in. Noticing the look on your
@@ -82,11 +82,13 @@ size) produces the encryption key, **`14897079`**. (Transforming the subject
 number of `5764801` (the card's public key) with a loop size of `11` (the door's
 loop size) produces the same encryption key: **`14897079`**.)
 
+<!--lint ignore no-emphasis-as-heading-->
+
 **What encryption key is the handshake trying to establish?**
 
 Your puzzle answer was `12181021`.
 
-## [Part Two](https://adventofcode.com/2020/day/25#part2) - [TypeScript](./typescript/src/p2.ts)
+## [Part Two](https://adventofcode.com/2020/day/25#part2) - [TypeScript](/solutions/typescript/src/p2.ts)
 
 The light turns green and the door unlocks. As you collapse onto the bed in your
 room, your pager goes off!

@@ -1,6 +1,6 @@
 # [Day 14: Docking Data](https://adventofcode.com/2020/day/14)
 
-## [Part One](https://adventofcode.com/2020/day/14#part1) - [TypeScript](./typescript/src/p1.ts)
+## [Part One](https://adventofcode.com/2020/day/14#part1) - [TypeScript](/solutions/typescript/src/p1.ts)
 
 As your ferry approaches the sea port, the captain asks for your help again. The
 computer system that runs this port isn't compatible with the docking program on
@@ -79,7 +79,7 @@ memory after it completes?**
 
 Your puzzle answer was `7440382076205`.
 
-## [Part Two](https://adventofcode.com/2020/day/14#part2) - [TypeScript](./typescript/src/p2.ts)
+## [Part Two](https://adventofcode.com/2020/day/14#part2) - [TypeScript](/solutions/typescript/src/p2.ts)
 
 For some reason, the sea port's computer system still can't communicate with
 your ferry's docking program. It must be using **version 2** of the decoder

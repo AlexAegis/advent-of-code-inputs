@@ -1,6 +1,6 @@
 # [Day 10: Adapter Array](https://adventofcode.com/2020/day/10)
 
-## [Part One](https://adventofcode.com/2020/day/10#part1) - [TypeScript](./typescript/src/p1.ts)
+## [Part One](https://adventofcode.com/2020/day/10#part1) - [TypeScript](/solutions/typescript/src/p1.ts)
 
 Patched into the aircraft's data port, you discover weather forecasts of a
 massive tropical storm. Before you can figure out whether it will impact your
@@ -123,7 +123,7 @@ charging outlet, the adapters, and your device. **What is the number of**
 
 Your puzzle answer was `2201`.
 
-## [Part Two](https://adventofcode.com/2020/day/10#part2) - [TypeScript](./typescript/src/p2.ts)
+## [Part Two](https://adventofcode.com/2020/day/10#part2) - [TypeScript](/solutions/typescript/src/p2.ts)
 
 To completely determine whether you have enough adapters, you'll need to figure
 out how many different ways they can be arranged. Every arrangement needs to

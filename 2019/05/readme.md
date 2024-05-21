@@ -178,6 +178,8 @@ the ID of the system to test, **provide it `5`**, the ID for the ship's thermal
 radiator controller. This diagnostic test suite only outputs one number, the
 **diagnostic code**.
 
+<!--lint ignore no-emphasis-as-heading-->
+
 **What is the diagnostic code for system ID `5`?**
 
 Your puzzle answer was `6959377`.

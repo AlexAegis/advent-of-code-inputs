@@ -52,6 +52,8 @@ with a letter for easier identification. In it, there are four nodes:
 The first check done on the license file is to simply add up all of the metadata
 entries. In this example, that sum is `1+1+2+10+11+12+2+99=138`.
 
+<!--lint ignore no-emphasis-as-heading-->
+
 **What is the sum of all metadata entries?**
 
 Your puzzle answer was `47112`.
@@ -88,6 +90,8 @@ For example, again using the above nodes:
   of `0`, the value of node `A` is `33+33+0=66`.
 
 So, in this example, the value of the root node is `66`.
+
+<!--lint ignore no-emphasis-as-heading-->
 
 **What is the value of the root node?**
 

@@ -1,6 +1,6 @@
 # [Day 5: Binary Boarding](https://adventofcode.com/2020/day/5)
 
-## [Part One](https://adventofcode.com/2020/day/5#part1) - [TypeScript](./typescript/src/p1.ts)
+## [Part One](https://adventofcode.com/2020/day/5#part1) - [TypeScript](/solutions/typescript/src/p1.ts)
 
 You board your plane only to discover a new problem: you dropped your boarding
 pass! You aren't sure which seat is yours, and all of the flight attendants are
@@ -63,7 +63,7 @@ highest seat ID on a boarding pass?**
 
 Your puzzle answer was `848`.
 
-## [Part Two](https://adventofcode.com/2020/day/5#part2) - [TypeScript](./typescript/src/p2.ts)
+## [Part Two](https://adventofcode.com/2020/day/5#part2) - [TypeScript](/solutions/typescript/src/p2.ts)
 
 **Ding!** The "fasten seat belt" signs have turned on. Time to find your seat.
 
@@ -74,6 +74,8 @@ your list as well.
 
 Your seat wasn't at the very front or back, though; the seats with IDs +1 and -1
 from yours will be in your list.
+
+<!--lint ignore no-emphasis-as-heading-->
 
 **What is the ID of your seat?**
 

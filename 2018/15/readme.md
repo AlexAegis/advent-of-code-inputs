@@ -359,7 +359,7 @@ Outcome: `35 * 793 = 27755`
 ```
 
 Combat ends after `54 full rounds Goblins win with`536
-`total hit points left Outcome:`54 \* 536 = 28944`
+`total hit points left Outcome:`54 \* 536 = 28944\`
 
 ```json
 #########       #########

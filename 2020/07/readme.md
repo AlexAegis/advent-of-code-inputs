@@ -1,6 +1,6 @@
 # [Day 7: Handy Haversacks](https://adventofcode.com/2020/day/7)
 
-## [Part One](https://adventofcode.com/2020/day/7#part1) - [TypeScript](./typescript/src/p1.ts)
+## [Part One](https://adventofcode.com/2020/day/7#part1) - [TypeScript](/solutions/typescript/src/p1.ts)
 
 You land at the regional airport in time for your next flight. In fact, it looks
 like you'll even have time to grab some food: all flights are currently delayed
@@ -53,7 +53,7 @@ least one `shiny gold` bag is **`4`**.
 
 Your puzzle answer was `197`.
 
-## [Part Two](https://adventofcode.com/2020/day/7#part2) - [TypeScript](./typescript/src/p2.ts)
+## [Part Two](https://adventofcode.com/2020/day/7#part2) - [TypeScript](/solutions/typescript/src/p2.ts)
 
 It's getting pretty expensive to fly these days - not because of ticket prices,
 but because of the ridiculous number of bags you need to buy!
@@ -88,6 +88,8 @@ dark violet bags contain no other bags.
 ```
 
 In this example, a single `shiny gold` bag must contain **`126`** other bags.
+
+<!--lint ignore no-emphasis-as-heading-->
 
 **How many individual bags are required inside your single `shiny gold` bag?**
 

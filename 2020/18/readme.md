@@ -1,6 +1,6 @@
 # [Day 18: Operation Order](https://adventofcode.com/2020/day/18)
 
-## [Part One](https://adventofcode.com/2020/day/18#part1) - [TypeScript](./typescript/src/p1.ts)
+## [Part One](https://adventofcode.com/2020/day/18#part1) - [TypeScript](/solutions/typescript/src/p1.ts)
 
 As you look out the window and notice a heavily-forested continent slowly appear
 over the horizon, you are interrupted by the child sitting next to you. They're
@@ -59,7 +59,7 @@ Before you can help with the homework, you need to understand it yourself.
 
 Your puzzle answer was `25190263477788`.
 
-## [Part Two](https://adventofcode.com/2020/day/18#part2) - [TypeScript](./typescript/src/p2.ts)
+## [Part Two](https://adventofcode.com/2020/day/18#part2) - [TypeScript](/solutions/typescript/src/p2.ts)
 
 You manage to answer the child's questions and they finish part 1 of their
 homework, but get stuck when they reach the next section: **advanced** math.

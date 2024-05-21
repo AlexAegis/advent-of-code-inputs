@@ -1,6 +1,6 @@
 # [Day 11: Seating System](https://adventofcode.com/2020/day/11)
 
-## [Part One](https://adventofcode.com/2020/day/11#part1) - [TypeScript](./typescript/src/p1.ts)
+## [Part One](https://adventofcode.com/2020/day/11#part1) - [TypeScript](/solutions/typescript/src/p1.ts)
 
 Your plane lands with plenty of time to spare. The final leg of your journey is
 a ferry that goes directly to the tropical island where you can finally start
@@ -125,7 +125,7 @@ seats change state. **How many seats end up occupied?**
 
 Your puzzle answer was `2406`.
 
-## [Part Two](https://adventofcode.com/2020/day/11#part2) - [TypeScript](./typescript/src/p2.ts)
+## [Part Two](https://adventofcode.com/2020/day/11#part2) - [TypeScript](/solutions/typescript/src/p2.ts)
 
 As soon as people start to arrive, you realize your mistake. People don't just
 care about adjacent seats - they care about **the first seat they can see** in

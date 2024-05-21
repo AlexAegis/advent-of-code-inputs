@@ -65,6 +65,8 @@ pair would be exclusively cleaning sections their partner will already be
 cleaning, so these seem like the most in need of reconsideration. In this
 example, there are **`2`** such pairs.
 
+<!--lint ignore no-emphasis-as-heading-->
+
 **In how many assignment pairs does one range fully contain the other?**
 
 Your puzzle answer was `433`.
@@ -86,6 +88,8 @@ overlap, while the remaining four pairs (`5-7,7-9`, `2-8,3-7`, `6-6,4-6`, and
 - `2-6,4-8` overlaps in sections `4`, `5`, and `6`.
 
 So, in this example, the number of overlapping assignment pairs is **`4`**.
+
+<!--lint ignore no-emphasis-as-heading-->
 
 **In how many assignment pairs do the ranges overlap?**
 

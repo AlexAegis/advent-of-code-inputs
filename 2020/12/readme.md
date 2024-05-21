@@ -1,6 +1,6 @@
 # [Day 12: Rain Risk](https://adventofcode.com/2020/day/12)
 
-## [Part One](https://adventofcode.com/2020/day/12#part1) - [TypeScript](./typescript/src/p1.ts)
+## [Part One](https://adventofcode.com/2020/day/12#part1) - [TypeScript](/typescript/src/p1.ts)
 
 Your ferry made decent progress toward the island, but the storm came in faster
 than anyone expected. The ferry needs to take **evasive actions**!
@@ -60,7 +60,7 @@ Figure out where the navigation instructions lead. **What is the Manhattan**
 
 Your puzzle answer was `858`.
 
-## [Part Two](https://adventofcode.com/2020/day/12#part2) - [TypeScript](./typescript/src/p2.ts)
+## [Part Two](https://adventofcode.com/2020/day/12#part2) - [TypeScript](/solutions/typescript/src/p2.ts)
 
 Before you can give the destination to the captain, you realize that the actual
 action meanings were printed on the back of the instructions the whole time.

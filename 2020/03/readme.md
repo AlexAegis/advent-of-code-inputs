@@ -1,6 +1,6 @@
 # [Day 3: Toboggan Trajectory](https://adventofcode.com/2020/day/3)
 
-## [Part One](https://adventofcode.com/2020/day/3#part1) - [TypeScript](./typescript/src/p1.ts)
+## [Part One](https://adventofcode.com/2020/day/3#part1) - [TypeScript](/solutions/typescript/src/p1.ts)
 
 With the toboggan login problems resolved, you set off toward the airport. While
 travel by toboggan might be easy, it's certainly not safe: there's very minimal
@@ -79,7 +79,7 @@ down 1, **how many trees would you encounter**?
 
 Your puzzle answer was `265`.
 
-## [Part Two](https://adventofcode.com/2020/day/3#part2) - [TypeScript](./typescript/src/p2.ts)
+## [Part Two](https://adventofcode.com/2020/day/3#part2) - [TypeScript](/solutions/typescript/src/p2.ts)
 
 Time to check the rest of the slopes - you need to minimize the probability of a
 sudden arboreal stop, after all.

@@ -1,6 +1,6 @@
 # [Day 8: Handheld Halting](https://adventofcode.com/2020/day/8)
 
-## [Part One](https://adventofcode.com/2020/day/8#part1) - [TypeScript](./typescript/src/p1.ts)
+## [Part One](https://adventofcode.com/2020/day/8#part1) - [TypeScript](/solutions/typescript/2020/08/src/p1.ts)
 
 Your flight to the major airline hub reaches cruising altitude without incident.
 While you consider checking the in-flight menu for one of those drinks that come
@@ -76,7 +76,7 @@ second time, **what value is in the accumulator?**
 
 Your puzzle answer was `1709`.
 
-## [Part Two](https://adventofcode.com/2020/day/8#part2) - [TypeScript](./typescript/src/p2.ts)
+## [Part Two](https://adventofcode.com/2020/day/8#part2) - [TypeScript](/solutions/typescript/src/p2.ts)
 
 After some careful analysis, you believe that **exactly one instruction is
 corrupted**.

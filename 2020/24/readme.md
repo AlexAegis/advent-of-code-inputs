@@ -1,6 +1,6 @@
 # [Day 24: Lobby Layout](https://adventofcode.com/2020/day/24)
 
-## [Part One](https://adventofcode.com/2020/day/24#part1) - [TypeScript](./typescript/src/p1.ts)
+## [Part One](https://adventofcode.com/2020/day/24#part1) - [TypeScript](/solutions/typescript/src/p1.ts)
 
 Your raft makes it to the tropical island; it turns out that the small crab was
 an excellent navigator. You make your way to the resort.
@@ -72,7 +72,7 @@ flip. After all of the instructions have been followed, **how many tiles are**
 
 Your puzzle answer was `479`.
 
-## [Part Two](https://adventofcode.com/2020/day/24#part2) - [TypeScript](./typescript/src/p2.ts)
+## [Part Two](https://adventofcode.com/2020/day/24#part2) - [TypeScript](/solutions/typescript/src/p2.ts)
 
 The tile floor in the lobby is meant to be a living art exhibit. Every day, the
 tiles are all flipped according to the following rules:
@@ -117,6 +117,8 @@ Day 100: 2208
 
 After executing this process a total of 100 times, there would be **`2208`**
 black tiles facing up.
+
+<!--lint ignore no-emphasis-as-heading-->
 
 **How many tiles will be black after 100 days?**
 

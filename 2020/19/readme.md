@@ -1,6 +1,6 @@
 # [Day 19: Monster Messages](https://adventofcode.com/2020/day/19)
 
-## [Part One](https://adventofcode.com/2020/day/19#part1) - [TypeScript](./typescript/src/p1.ts)
+## [Part One](https://adventofcode.com/2020/day/19#part1) - [TypeScript](/solutions/typescript/src/p1.ts)
 
 You land in an airport surrounded by dense forest. As you walk to your
 high-speed train, the Elves at the Mythical Information Bureau contact you
@@ -89,11 +89,13 @@ must match all of rule `0`; there can't be extra unmatched characters in the
 message. (For example, `aaaabbb` might appear to match rule `0` above, but it
 has an extra unmatched `b` on the end.)
 
+<!--lint ignore no-emphasis-as-heading-->
+
 **How many messages completely match rule `0`?**
 
 Your puzzle answer was `208`.
 
-## [Part Two](https://adventofcode.com/2020/day/19#part2) - [TypeScript](./typescript/src/p2.ts)
+## [Part Two](https://adventofcode.com/2020/day/19#part2) - [TypeScript](/solutions/typescript/src/p2.ts)
 
 As you look over the list of messages, you realize your matching rules aren't
 quite right. To fix them, completely replace rules `8: 42` and `11: 42 31` with

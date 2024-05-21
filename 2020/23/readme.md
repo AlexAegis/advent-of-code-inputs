@@ -1,6 +1,6 @@
 # [Day 23: Crab Cups](https://adventofcode.com/2020/day/23)
 
-## [Part One](https://adventofcode.com/2020/day/23#part1) - [TypeScript](./typescript/src/p1.ts)
+## [Part One](https://adventofcode.com/2020/day/23#part1) - [TypeScript](/solutions/typescript/src/p1.ts)
 
 The small crab challenges **you** to a game! The crab is going to mix up some
 cups, and you have to predict where they'll end up.
@@ -103,7 +103,7 @@ Using your labeling, simulate 100 moves. **What are the labels on the cups**
 
 Your puzzle answer was `74698532`.
 
-## [Part Two](https://adventofcode.com/2020/day/23#part2) - [TypeScript](./typescript/src/p2.ts)
+## [Part Two](https://adventofcode.com/2020/day/23#part2) - [TypeScript](/solutions/typescript/src/p2.ts)
 
 Due to what you can only assume is a mistranslation (you're not exactly fluent
 in Crab), you are quite surprised when the crab starts arranging **many** cups

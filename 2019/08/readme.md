@@ -101,6 +101,8 @@ So, the final image looks like this:
 10
 ```
 
+<!--lint ignore no-emphasis-as-heading-->
+
 **What message is produced after decoding your image?**
 
 Your puzzle answer was `LGYHB`.

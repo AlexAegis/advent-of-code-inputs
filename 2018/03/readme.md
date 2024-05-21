@@ -85,6 +85,8 @@ attention to it, maybe the Elves will be able to make Santa's suit after all!
 For example, in the claims above, only claim `3` is intact after all claims are
 made.
 
+<!--lint ignore no-emphasis-as-heading-->
+
 **What is the ID of the only claim that doesn't overlap?**
 
 Your puzzle answer was `382`.

@@ -1,6 +1,6 @@
 # [Day 4: Passport Processing](https://adventofcode.com/2020/day/4)
 
-## [Part One](https://adventofcode.com/2020/day/4#part1) - [TypeScript](./typescript/src/p1.ts)
+## [Part One](https://adventofcode.com/2020/day/4#part1) - [TypeScript](/solutions/typescript/src/p1.ts)
 
 You arrive at the airport only to realize that you grabbed your North Pole
 Credentials instead of your passport. While these documents are extremely
@@ -68,7 +68,7 @@ Treat `cid` as optional. **In your batch file, how many passports are valid?**
 
 Your puzzle answer was `264`.
 
-## [Part Two](https://adventofcode.com/2020/day/4#part2) - [TypeScript](./typescript/src/p2.ts)
+## [Part Two](https://adventofcode.com/2020/day/4#part2) - [TypeScript](/solutions/typescript/src/p2.ts)
 
 The line is moving more quickly now, but you overhear airport security talking
 about how passports with invalid data are getting through. Better add some data

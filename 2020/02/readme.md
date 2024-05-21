@@ -12,7 +12,7 @@ Their password database seems to be a little corrupted: some of the passwords
 wouldn't have been allowed by the Official Toboggan Corporate Policy that was in
 effect when they were chosen.
 
-## [Part One](https://adventofcode.com/2020/day/2#part1) - [TypeScript](./typescript/src/p1.ts)
+## [Part One](https://adventofcode.com/2020/day/2#part1) - [TypeScript](/solutions/typescript/src/p1.ts)
 
 To try to debug the problem, they have created a list (your puzzle input) of
 **passwords** (according to the corrupted database) and **the corporate policy
@@ -40,7 +40,7 @@ limits of their respective policies.
 
 Your puzzle answer was `493`.
 
-## [Part Two](https://adventofcode.com/2020/day/2#part2) - [TypeScript](./typescript/src/p2.ts)
+## [Part Two](https://adventofcode.com/2020/day/2#part2) - [TypeScript](/solutions/typescript/src/p2.ts)
 
 While it appears you validated the passwords correctly, they don't seem to be
 what the Official Toboggan Corporate Authentication System is expecting.

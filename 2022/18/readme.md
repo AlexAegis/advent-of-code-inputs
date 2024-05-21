@@ -47,6 +47,8 @@ Here's a larger example:
 In the above example, after counting up all the sides that aren't connected to
 another cube, the total surface area is **`64`**.
 
+<!--lint ignore no-emphasis-as-heading-->
+
 **What is the surface area of your scanned lava droplet?**
 
 Your puzzle answer was `3454`.
@@ -67,6 +69,8 @@ droplet but never expanding diagonally.
 In the larger example above, exactly one cube of air is trapped within the lava
 droplet (at `2,2,5`), so the exterior surface area of the lava droplet is
 **`58`**.
+
+<!--lint ignore no-emphasis-as-heading-->
 
 **What is the exterior surface area of your scanned lava droplet?**
 

@@ -95,6 +95,8 @@ they take over the entire ocean?
 After 256 days in the example above, there would be a total of **`26984457539`**
 lanternfish!
 
+<!--lint ignore no-emphasis-as-heading-->
+
 **How many lanternfish would there be after 256 days?**
 
 Your puzzle answer was `1634946868992`.

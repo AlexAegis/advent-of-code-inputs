@@ -135,7 +135,7 @@ start-RW
 
 Your puzzle answer was `4167`.
 
-## [Part One](https://adventofcode.com/2021/day/12#part2)
+## [Part Two](https://adventofcode.com/2021/day/12#part2)
 
 > [TypeScript](/solutions/typescript/2021/12/src/p2.ts)
 

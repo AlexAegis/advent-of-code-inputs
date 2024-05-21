@@ -1,6 +1,6 @@
 # [Day 22: Crab Combat](https://adventofcode.com/2020/day/22)
 
-## [Part One](https://adventofcode.com/2020/day/22#part1) - [TypeScript](./typescript/src/p1.ts)
+## [Part One](https://adventofcode.com/2020/day/22#part1) - [TypeScript](/solutions/typescript/src/p1.ts)
 
 It only takes a few hours of sailing the ocean on a raft for boredom to sink in.
 Fortunately, you brought a small deck of
@@ -136,7 +136,7 @@ Play the small crab in a game of Combat using the two decks you just dealt.
 
 Your puzzle answer was `31455`.
 
-## [Part Two](https://adventofcode.com/2020/day/22#part2) - [TypeScript](./typescript/src/p2.ts)
+## [Part Two](https://adventofcode.com/2020/day/22#part2) - [TypeScript](/solutions/typescript/src/p2.ts)
 
 You lost to the small crab! Fortunately, crabs aren't very good at recursion. To
 defend your honor as a Raft Captain, you challenge the small crab to a game of

@@ -43,8 +43,8 @@ into chronological order:
 
 Timestamps are written using `year-month-day hour:minute` format. The guard
 falling asleep or waking up is always the one whose shift most recently started.
-Because all asleep/awake times are during the midnight hour (`00:00` \-
-`00:59`), only the minute portion (`00` - `59`) is relevant for those events.
+Because all asleep/awake times are during the midnight hour (`00:00` - `00:59`),
+only the minute portion (`00` - `59`) is relevant for those events.
 
 Visually, these records show that the guards are asleep at these times:
 

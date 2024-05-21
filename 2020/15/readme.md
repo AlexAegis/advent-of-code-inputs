@@ -1,6 +1,6 @@
 # [Day 15: Rambunctious Recitation](https://adventofcode.com/2020/day/15)
 
-## [Part One](https://adventofcode.com/2020/day/15#part1) - [TypeScript](./typescript/src/p1.ts)
+## [Part One](https://adventofcode.com/2020/day/15#part1) - [TypeScript](/solutions/typescript/src/p1.ts)
 
 You catch the airport shuttle and try to book a new flight to your vacation
 island. Due to the storm, all direct flights have been cancelled, but a route is
@@ -64,7 +64,7 @@ Given your starting numbers, what will be the 2020th number spoken?
 
 Your puzzle answer was `1015`.
 
-## [Part Two](https://adventofcode.com/2020/day/15#part2) - [TypeScript](./typescript/src/p2.ts)
+## [Part Two](https://adventofcode.com/2020/day/15#part2) - [TypeScript](/solutions/typescript/src/p2.ts)
 
 Impressed, the Elves issue you a challenge: determine the `30000000`th number
 spoken. For example, given the same starting numbers as above:

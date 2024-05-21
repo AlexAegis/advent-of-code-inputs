@@ -1,4 +1,4 @@
-# [Day 22:](https://adventofcode.com/2022/day/22)
+# [Day 22](https://adventofcode.com/2022/day/22)
 
 ## [Part One](https://adventofcode.com/2022/day/22#part1)
 

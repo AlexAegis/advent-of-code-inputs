@@ -1,6 +1,6 @@
 # [Day 9: Encoding Error](https://adventofcode.com/2020/day/9)
 
-## [Part One](https://adventofcode.com/2020/day/9#part1) - [TypeScript](./typescript/src/p1.ts)
+## [Part One](https://adventofcode.com/2020/day/9#part1) - [TypeScript](/solutions/typescript/src/p1.ts)
 
 With your neighbor happily enjoying their video game, you turn your attention to
 an open data port on the little screen in the seat in front of you.
@@ -76,7 +76,7 @@ property?**
 
 Your puzzle answer was `217430975`.
 
-## [Part Two](https://adventofcode.com/2020/day/9#part2) - [TypeScript](./typescript/src/p2.ts)
+## [Part Two](https://adventofcode.com/2020/day/9#part2) - [TypeScript](/solutions/typescript/src/p2.ts)
 
 The final step in breaking the XMAS encryption relies on the invalid number you
 just found: **you must find a contiguous set of at least two numbers** in your
@@ -114,6 +114,8 @@ your actual list might be much longer.)
 To find the **encryption weakness**, add together the **smallest** and
 **largest** number in this contiguous range; in this example, these are `15` and
 `47`, producing **`62`**.
+
+<!--lint ignore no-emphasis-as-heading-->
 
 **What is the encryption weakness in your XMAS-encrypted list of numbers?**
 

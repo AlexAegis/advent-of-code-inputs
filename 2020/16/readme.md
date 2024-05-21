@@ -1,6 +1,6 @@
 # [Day 16: Ticket Translation](https://adventofcode.com/2020/day/16)
 
-## [Part One](https://adventofcode.com/2020/day/16#part1) - [TypeScript](./typescript/src/p1.ts)
+## [Part One](https://adventofcode.com/2020/day/16#part1) - [TypeScript](/solutions/typescript/src/p1.ts)
 
 As you're walking to yet another connecting flight, you realize that one of the
 legs of your re-routed trip coming up is on a high-speed train. However, the
@@ -77,7 +77,7 @@ ticket scanning error rate?**
 
 Your puzzle answer was `27870`.
 
-## [Part Two](https://adventofcode.com/2020/day/16#part2) - [TypeScript](./typescript/src/p2.ts)
+## [Part Two](https://adventofcode.com/2020/day/16#part2) - [TypeScript](/solutions/typescript/src/p2.ts)
 
 Now that you've identified which tickets contain invalid values, **discard those
 tickets entirely**. Use the remaining valid tickets to determine which field is

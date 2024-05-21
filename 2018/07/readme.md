@@ -68,6 +68,8 @@ alphabetically. In this example, the steps would be completed as follows:
 
 So, in this example, the correct order is `CABDFE`.
 
+<!--lint ignore no-emphasis-as-heading-->
+
 **In what order should the steps in your instructions be completed?**
 
 Your puzzle answer was `GRTAHKLQVYWXMUBCZPIJFEDNSO`.

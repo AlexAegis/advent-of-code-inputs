@@ -1,6 +1,6 @@
 # [Day 13: Shuttle Search](https://adventofcode.com/2020/day/13)
 
-## [Part One](https://adventofcode.com/2020/day/13#part1) - [TypeScript](./typescript/src/p1.ts)
+## [Part One](https://adventofcode.com/2020/day/13#part1) - [TypeScript](/solutions/typescript/src/p1.ts)
 
 Your ferry can make it safely to a nearby port, but it won't get much further.
 When you call to book another ship, you discover that no ships embark from that
@@ -76,7 +76,7 @@ gives **`295`**.
 
 Your puzzle answer was `136`.
 
-## [Part Two](https://adventofcode.com/2020/day/13#part2) - [TypeScript](./typescript/src/p2.ts)
+## [Part Two](https://adventofcode.com/2020/day/13#part2) - [TypeScript](/solutions/typescript/src/p2.ts)
 
 The shuttle company is running a contest: one gold coin for anyone that can find
 the earliest timestamp such that the first bus ID departs at that time and each

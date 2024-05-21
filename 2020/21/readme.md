@@ -1,6 +1,6 @@
 # [Day 21: Allergen Assessment](https://adventofcode.com/2020/day/21)
 
-## [Part One](https://adventofcode.com/2020/day/21#part1) - [TypeScript](./typescript/src/p1.ts)
+## [Part One](https://adventofcode.com/2020/day/21#part1) - [TypeScript](/solutions/typescript/src/p1.ts)
 
 You reach the train's last stop and the closest you can get to your vacation
 island without getting wet. There aren't even any boats here, but nothing can
@@ -49,7 +49,7 @@ list. **How many times do any of those ingredients appear?**
 
 Your puzzle answer was `2724`.
 
-## [Part Two](https://adventofcode.com/2020/day/21#part2) - [TypeScript](./typescript/src/p2.ts)
+## [Part Two](https://adventofcode.com/2020/day/21#part2) - [TypeScript](/solutions/typescript/src/p2.ts)
 
 Now that you've isolated the inert ingredients, you should have enough
 information to figure out which ingredient contains which allergen.

@@ -1,11 +1,10 @@
-# [Day 19:](https://adventofcode.com/2022/day/19)
+# [Day 19: Not Enough Minerals](https://adventofcode.com/2022/day/19)
 
 ## [Part One](https://adventofcode.com/2022/day/19#part1)
 
 > [TypeScript](/solutions/typescript/2022/19/src/p1.ts)
 
---- Day 19: Not Enough Minerals --- Your scans show that the lava did indeed
-form obsidian!
+Your scans show that the lava did indeed form obsidian!
 
 The wind has changed direction enough to stop sending lava droplets toward you,
 so you and the elephants exit the cave. As you do, you notice a collection of

@@ -87,6 +87,8 @@ Each of these tiles is worth biodiversity points equal to **increasing**
 for tiles with bugs; in this example, the 16th tile (`32768` points) and 22nd
 tile (`2097152` points) have bugs, a total biodiversity rating of **`2129920`**.
 
+<!--lint ignore no-emphasis-as-heading-->
+
 **What is the biodiversity rating for the first layout that appears twice?**
 
 Your puzzle answer was `13500447`.
